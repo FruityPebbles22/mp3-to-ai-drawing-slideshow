@@ -1,0 +1,5 @@
+{
+  "name": "MP3 to AI Drawing Slideshow",
+  "description": "Generate dynamic image slideshows based on MP3 song titles and selected art styles using Google Gemini AI.",
+  "requestFramePermissions": []
+}
